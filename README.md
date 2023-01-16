@@ -1,0 +1,2 @@
+# Simulate key board to type the content in your clipboard
+when you need to copy paste something into a place where don't share clipboard with you. e.g the VNC screen of a VPS service provider (when adding a SSH pubkey).
